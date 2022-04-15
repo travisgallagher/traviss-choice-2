@@ -1,0 +1,14 @@
+.nav-bar {
+  background-color: #262324;
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: left;
+}
+.nav-bar a {
+  text-decoration: none;
+  padding: 24px;
+  color: #fff;
+}
+.nav-bar a:hover {
+  zoom: 1.1;
+}
